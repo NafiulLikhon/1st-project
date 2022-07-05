@@ -63,4 +63,11 @@ h1{
 }
 footer{
     text-align: center;
+    font-weight: 400;
+}
+#sideline2{
+    border-left: 6px solid blue;
+}
+#sideline1{
+    border-left: 6px solid rgb(222, 11, 11);
 }
